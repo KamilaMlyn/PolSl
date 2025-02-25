@@ -1,0 +1,7 @@
+@Nazwa przepisu 1
+#ser
+-10
+#makaron
+-50
+*krok 1
+*krok 2

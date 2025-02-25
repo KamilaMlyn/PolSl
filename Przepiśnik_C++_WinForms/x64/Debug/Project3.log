@@ -1,0 +1,11 @@
+﻿  Okno_dodaj_przepis.cpp
+  Okno_dodaj_skladnik.cpp
+  Okno_glowne.cpp
+  Okno_konta.cpp
+  Okno_listy_zakupow.cpp
+  Okno_przepisu.cpp
+  Okno_Skladnika.cpp
+  stdafx.cpp
+  Generowanie kodu...
+  logowanie.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Project3.vcxproj -> E:\RepoPolSl\Przepiśnik_C++_WinForms\x64\Debug\Project3.exe

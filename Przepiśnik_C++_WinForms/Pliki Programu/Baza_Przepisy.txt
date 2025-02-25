@@ -1,0 +1,24 @@
+@Sos serowy
+#smietana 30
+-50
+#ser
+-50
+#udko z kurczaka
+-100
+*przygotuj ulubiony makaron zgodnie z zaleceniami producenta
+*udko z kurczaka pokroj i usmarz w przyprawach
+*do garnka lub glebokiej patelni wlej smietane 30
+*po zagotowaniu smietany dodaj starty ser mieszajac
+*gotuj, mieszajac, do momentu uzyskania gestej konsystencji
+*dodaj usmarzone udko do sosu
+*podaj na wysokim talerzu makaraon z sosem
+@tofu z pesto
+#tofu
+-1
+#makaron
+-5
+#pesto
+-50
+*zrob makaron
+*pokroj w kostke i usmarz tofu
+*do garnka dodaj ugotowany makaraon, tofu oraz starty ser

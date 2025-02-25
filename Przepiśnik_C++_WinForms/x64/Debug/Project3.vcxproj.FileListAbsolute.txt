@@ -1,0 +1,12 @@
+E:\RepoPolSl\Przepiśnik_C++_WinForms\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+E:\RepoPolSl\Przepiśnik_C++_WinForms\x64\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache
+E:\RepoPolSl\Przepiśnik_C++_WinForms\x64\Debug\Project3.logowanie.resources
+E:\RepoPolSl\Przepiśnik_C++_WinForms\x64\Debug\Project3.Okno_dodaj_przepis.resources
+E:\RepoPolSl\Przepiśnik_C++_WinForms\x64\Debug\Project3.Okno_dodaj_skladnik.resources
+E:\RepoPolSl\Przepiśnik_C++_WinForms\x64\Debug\Project3.Okno_glowne.resources
+E:\RepoPolSl\Przepiśnik_C++_WinForms\x64\Debug\Project3.Okno_konta.resources
+E:\RepoPolSl\Przepiśnik_C++_WinForms\x64\Debug\Project3.Okno_listy_zakupow.resources
+E:\RepoPolSl\Przepiśnik_C++_WinForms\x64\Debug\Project3.Okno_przepisu.resources
+E:\RepoPolSl\Przepiśnik_C++_WinForms\x64\Debug\Project3.Okno_Skladnika.resources
+E:\RepoPolSl\Przepiśnik_C++_WinForms\x64\Debug\Project3.vcxproj.GenerateResource.cache
+E:\RepoPolSl\Przepiśnik_C++_WinForms\x64\Debug\Project3.exe

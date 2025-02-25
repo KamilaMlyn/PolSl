@@ -1,0 +1,2 @@
+scipy
+file:app/libs/scikit_learn-1.6.0-cp313-cp313t-win_amd64.whl

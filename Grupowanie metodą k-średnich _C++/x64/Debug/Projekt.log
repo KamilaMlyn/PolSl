@@ -1,0 +1,5 @@
+﻿  grupowanie.cpp
+E:\RepoPolSl\Grupowanie metodą k-średnich\grupowanie.cpp(121,33): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  main.cpp
+  Generowanie kodu...
+  Projekt.vcxproj -> E:\RepoPolSl\Grupowanie metodą k-średnich\x64\Debug\Projekt.exe
